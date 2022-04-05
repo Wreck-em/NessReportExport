@@ -1,5 +1,5 @@
 # NessusReport
-Export Nessus scans to .CSVs + append a date column for each file
+Export Nessus scans into .csv files + append a date column for each file
 
 **NessusExporter.py** automatically exports contents of all folder within Nessus software into CSVs, just input Nessus user and password.
 <br />
