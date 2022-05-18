@@ -1,7 +1,7 @@
 # NessusReport
 Export Nessus vulnerability scans into .csv files + appends current date column for each file
 
-**NessusExporter.py** automatically exports contents of all folders within Nessus software into .csv's. just input your desired file path and Nessus username/password to export Nessus files to a folder entitled "[current month name] Scans."
+**NessusExporter.py** automatically exports contents of folders within Nessus software into .csv's. Input your desired file path and Nessus username/password to export Nessus files to a folder entitled "[current month name] Scans."
 <br />
 **NessusDate.py** gets .csv files from folders whose filename contain the word "scan" (ex: test scan)
   -Appends column date to .csv which contains today's date
